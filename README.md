@@ -12,12 +12,11 @@
 
 ### Labs
 
-```markdown
 
 ##### [Lab 1](https://github.com/henrytunney77/cit281-lab1)
 Lab goals and outcomes:
 
-1qd setup your personal computer with the software tools required for this course
+1. setup your personal computer with the software tools required for this course
 2. Practice using software tools
 3. Practice terminal or shell commands
 4. Practice keyboard shortcuts
