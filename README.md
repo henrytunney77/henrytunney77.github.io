@@ -82,7 +82,7 @@ Lab goals and outcomes:
 
 -Part 6: Add a second route with query parameters, test, and commit
 
-##### Lab [Lab 5](https://github.com/henrytunney77/cit281-lab5)
+##### [Lab 5](https://github.com/henrytunney77/cit281-lab5)
 Lab goals and outcomes:
 
 -Part 1: Download and install Postman
@@ -163,7 +163,7 @@ Lab goals and outcomes:
 -Part 3: Work through course
 
 -Part 4: Download completed course repo as deliverable
-```
+
 
 
 
