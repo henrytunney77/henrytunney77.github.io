@@ -8,8 +8,12 @@
 
 ### CIT 281
 
+
+
 ### Labs
+
 ```markdown
+
 ##### [Lab 1](https://github.com/henrytunney77/cit281-lab1)
 Lab goals and outcomes:
 
