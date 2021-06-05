@@ -222,7 +222,7 @@ Rather than a final coding project, this project consists of creating an initial
 
 
 
- ![Image](src)
+
 
 
 
