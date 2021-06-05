@@ -1,4 +1,6 @@
 # Welcome to My CIS Portfoilo
+![Image](src)
+
 
 ### CIS 110
 
@@ -8,7 +10,7 @@
 
 ### Labs
 ```markdown
-##### Lab 1
+##### [Lab 1](https://github.com/henrytunney77/cit281-lab1)
 Lab goals and outcomes:
 
 1. Install and setup your personal computer with the software tools required for this course
@@ -17,7 +19,7 @@ Lab goals and outcomes:
 4. Practice keyboard shortcuts
 5. Create your first Node.js server-side JavaScript file
 
-##### Lab 2
+##### [Lab 2](https://github.com/henrytunney77/cit281-lab2)
 Lab goals and outcomes:
 
 
@@ -43,7 +45,7 @@ Lab goals and outcomes:
 
 -Part 9: Repo files
 
-##### Lab 3
+##### [Lab 3](https://github.com/henrytunney77/cit281-lab3)
 Lab goals and outcomes:
 
 -Practice refactoring JavaScript code to use more modern syntax
@@ -62,7 +64,7 @@ Lab goals and outcomes:
 
 -Examine code using the spread operator
 
-##### Lab 4
+##### [Lab 4](https://github.com/henrytunney77/cit281-lab4)
 Lab goals and outcomes:
 
 -Part 1: Create initial Fastify Node.js web server
@@ -77,7 +79,7 @@ Lab goals and outcomes:
 
 -Part 6: Add a second route with query parameters, test, and commit
 
-##### Lab 5
+##### Lab [Lab 5](https://github.com/henrytunney77/cit281-lab5)
 Lab goals and outcomes:
 
 -Part 1: Download and install Postman
@@ -94,7 +96,7 @@ Lab goals and outcomes:
 
 -Part 7: Use Postman and POST request
 
-##### Lab 6
+##### [Lab 6](https://github.com/henrytunney77/cit281-lab6)
 Lab goals and outcomes:
 
 -Part 1: Join GitHub and work through Introduction to GitHub course
@@ -113,7 +115,7 @@ Lab goals and outcomes:
 
 
 
-##### Lab 7
+##### [Lab 7](https://github.com/henrytunney77/cit281-lab7)
 Lab goals and outcomes:
 
 -Part 1: Create your own GitHub organization for the CIT Minor
@@ -129,7 +131,7 @@ Lab goals and outcomes:
 -Part 6: Push your changes to GitHub
 
 
-##### Lab 8
+##### [Lab 8](https://github.com/henrytunney77/cit281-lab8)
 Lab goals and outcomes:
 
 -Part 1: Create lab file and initialize Node.js folder
@@ -144,7 +146,7 @@ Lab goals and outcomes:
 
 
 
-##### Lab 9
+##### [Lab 9](https://github.com/henrytunney77/cit281-lab9)
 -You will be working through the GitHub Learning Lab Create a release based workflow (Links to an external site.) course.
 
 -The GitHub Learning Lab courses are self-directed repos added to your GitHub account. The repos represent individual courses with a series of steps to follow to learn the course material. Each course is isolated to the course repo added to your GitHub account. Some steps will hide the next steps until a specific action or change to the repo has been completed.
@@ -164,7 +166,7 @@ Lab goals and outcomes:
 
 ### Projects
 ```markdown
-##### Project 1
+##### [Project 1](https://github.com/henrytunney77/cit281-p1)
 
 Project elements:
 
@@ -176,7 +178,7 @@ Project elements:
 
 -Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
-##### Project 2
+##### [Project 2](https://github.com/henrytunney77/cit281-p2)
 
 
 Project elements:
@@ -191,43 +193,36 @@ Project elements:
 
 -Diff split screen
 
-##### Project 3
+##### [Project 3](https://github.com/henrytunney77/cit281-p3)
 
 
 You will be creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, you will then update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
-##### Project 4
+##### [Project 4](https://github.com/henrytunney77/cit281-p4)
 
 You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
 
-##### Project 5
+##### [Project 5](https://github.com/henrytunney77/cit281-p5)
 
 For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
-##### Project 6
+##### [Project 6](https://github.com/henrytunney77/cit281-p6)
 
 You will be creating three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class.
 
 The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value. 
 
-##### Project 7
+##### [Project 7](https://github.com/henrytunney77/cit281-p7)
 Rather than a final coding project, this project consists of creating an initial version of your CIT Minor portfolio using GitHub Pages. This project includes:
 
 -Creating either an organization-level or user-level GitHub Page, and adding content to this Page. This Page will be the entry web page for your portfolio.
 -Creating repos for each of the labs and projects for the CIT 281 class
 -Creating a GitHub Page for each of the labs and projects that provides a brief description of the lab or project, and a screen capture
 -Adding links to the organization or user Page to each of the labs and projects
-```
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ ![Image](src)
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/henrytunney77/henrytunney77.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
