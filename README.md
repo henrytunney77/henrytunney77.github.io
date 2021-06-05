@@ -168,7 +168,7 @@ Lab goals and outcomes:
 
 
 ### Projects
-```markdown
+
 ##### [Project 1](https://github.com/henrytunney77/cit281-p1)
 
 Project elements:
